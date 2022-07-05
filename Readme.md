@@ -1,0 +1,1 @@
+This project was made by watching the Rocketseat course and is an app to control personal finances

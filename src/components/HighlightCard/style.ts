@@ -11,11 +11,11 @@ export const Container = styled.View<TypeProps>`
         type === 'total' ? theme.colors.secondary : theme.colors.shape
     };
 
-    width: ${RFValue(300)}px;
+    width: ${RFValue(280)}px;
     border-radius: 5px;
 
-    padding: 19px 23px;
-    padding-bottom: ${RFValue(42)}px;
+    padding: 10px 23px;
+    padding-bottom: ${RFValue(20)}px;
 
     margin-right: 10px;
 `;
@@ -61,7 +61,7 @@ export const Amount = styled.Text<TypeProps>`
         type === 'total' ? theme.colors.shape : theme.colors.text_dark
     };
 
-    margin-top: 38px;
+    margin-top: 25px;
 `;
 
 export const LastTransaction = styled.Text<TypeProps>`
