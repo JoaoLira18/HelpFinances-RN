@@ -1,4 +1,4 @@
-<h1 align="center"> RENTX </h1>
+<h1 align="center"> HelpFinance </h1>
 
 Description: An app to control personal finances, where you can see the incomes, outcomes and total, when registering the item you can put a description, the price, and select a category. Everything will be registered on the home page with the informatin provided and when the item was added 
 
