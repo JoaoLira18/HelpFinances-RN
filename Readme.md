@@ -15,4 +15,4 @@ Tolls:
 - React native gesture handler
 - React native responsive fontsize
 
-<img src="https://user-images.githubusercontent.com/75041514/228636486-d8196bec-a99e-487f-8546-df70352f2713.gif" width="600" height="1250"/>
+<img src="https://user-images.githubusercontent.com/75041514/228636486-d8196bec-a99e-487f-8546-df70352f2713.gif" width="500" height="1100"/>
